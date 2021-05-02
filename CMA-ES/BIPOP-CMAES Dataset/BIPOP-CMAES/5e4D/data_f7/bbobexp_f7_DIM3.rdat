@@ -1,0 +1,100 @@
+% function evaluation | noise-free fitness - Fopt (9.294000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of equalfunvals.
+219 +1.270399378e+00 +5.130584382e-01 +9.421039938e+01 +9.345305844e+01 -2.5173e-01 -9.4025e-02 -2.1879e+00
+ % restart: Indep. restart #2, because of equalfunvals.
+438 +1.291139490e-02 +1.291139490e-02 +9.295291139e+01 +9.295291139e+01 -2.0916e-01 +6.9630e-01 +9.8084e-02
+ % restart: Indep. restart #3, because of equalfunvals.
+622 +3.606151962e-01 +1.291139490e-02 +9.330061520e+01 +9.295291139e+01 -2.8008e-01 +3.0001e-01 -1.0815e+00
+ % restart: Indep. restart #4, because of equalfunvals.
+841 +2.072256767e-02 +8.105351632e-03 +9.296072257e+01 +9.294810535e+01 -1.9409e-01 +7.7924e-01 +4.7327e-01
+ % restart: Indep. restart #5, because of equalfunvals.
+1074 +1.282646095e-01 +8.105351632e-03 +9.306826461e+01 +9.294810535e+01 -2.0062e-01 +2.9892e-01 -1.0594e+00
+ % restart: Indep. restart #6, because of equalfunvals.
+1251 +5.627362791e-01 +8.105351632e-03 +9.350273628e+01 +9.294810535e+01 -2.3898e-01 +1.3518e+00 +2.1337e+00
+ % function evaluation | noise-free fitness - Fopt (3.535000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of equalfunvals.
+219 +6.194655428e-01 +6.129924411e-01 +3.596946554e+01 +3.596299244e+01 +2.7134e+00 +8.8064e-01 +1.8775e+00
+ % restart: Indep. restart #2, because of equalfunvals.
+487 +3.200964201e-03 +3.200964201e-03 +3.535320096e+01 +3.535320096e+01 +1.7142e+00 +1.5064e+00 +4.0904e+00
+ % function evaluation | noise-free fitness - Fopt (3.820000000000e+00) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of equalfunvals.
+184 +5.442438925e-01 +3.023836964e-01 +4.364243892e+00 +4.122383696e+00 +4.2553e+00 -1.0522e+00 +1.5137e+00
+ % restart: Indep. restart #2, because of equalfunvals.
+396 +5.154992767e-01 +3.023836964e-01 +4.335499277e+00 +4.122383696e+00 +4.3127e+00 -8.9767e-01 +1.4973e+00
+ % restart: Indep. restart #3, because of equalfunvals.
+615 +3.221248429e+00 +3.023836964e-01 +7.041248429e+00 +4.122383696e+00 +4.5548e+00 -3.3799e+00 +1.1001e+00
+ % restart: Indep. restart #4, because of equalfunvals.
+1121 +1.288499372e-01 +1.288499372e-01 +3.948849937e+00 +3.948849937e+00 +3.9210e+00 +2.5438e+00 +2.0349e+00
+ % restart: Indep. restart #5, because of equalfunvals.
+1277 +2.180137471e+00 +1.288499372e-01 +6.000137471e+00 +3.948849937e+00 +3.3042e+00 +4.2323e+00 +2.5399e+00
+ % restart: Indep. restart #6, because of equalfunvals.
+1496 +5.442438925e-01 +1.288499372e-01 +4.364243892e+00 +3.948849937e+00 +3.8123e+00 +3.5402e+00 +2.1559e+00
+ % function evaluation | noise-free fitness - Fopt (2.175000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of equalfunvals.
+485 +1.166310946e-02 +1.065601281e-02 +2.176166311e+01 +2.176065601e+01 +3.6991e+00 +9.5131e-01 -1.0271e+00
+ % restart: Indep. restart #2, because of equalfunvals.
+704 +2.207205868e-01 +1.065601281e-02 +2.197072059e+01 +2.176065601e+01 +3.6055e+00 +1.4895e+00 -6.6972e-01
+ % restart: Indep. restart #3, because of equalfunvals.
+818 +3.798723499e+00 +1.065601281e-02 +2.554872350e+01 +2.176065601e+01 +3.8154e+00 +3.2149e+00 -3.1890e-01
+ % restart: Indep. restart #4, because of equalfunvals.
+1086 +1.166310946e-02 +1.326696939e-07 +2.176166311e+01 +2.175000013e+01 +3.6992e+00 +9.3879e-01 -1.0410e+00
+ % restart: Indep. restart #5, because of equalfunvals.
+1242 +2.207205868e-01 +1.326696939e-07 +2.197072059e+01 +2.175000013e+01 +3.9282e+00 +3.0549e-01 -1.5698e+00
+ % restart: Indep. restart #6, because of equalfunvals.
+1741 +1.065601281e-02 +1.326696939e-07 +2.176065601e+01 +2.175000013e+01 +3.8102e+00 +7.8208e-01 -1.1829e+00
+ % function evaluation | noise-free fitness - Fopt (6.479000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% function evaluation | noise-free fitness - Fopt (-1.963400000000e+02) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of equalfunvals.
+625 +6.529242550e-03 +3.526137659e-03 -1.963334708e+02 -1.963364739e+02 +3.7004e+00 -4.0340e+00 +1.6360e+00
+ % restart: Indep. restart #2, because of equalfunvals.
+844 +4.597355109e-01 +3.526137659e-03 -1.958802645e+02 -1.963364739e+02 +4.1150e+00 -3.5571e+00 -5.5583e-01
+ % restart: Indep. restart #3, because of equalfunvals.
+1252 +2.851383922e+00 +3.526137659e-03 -1.934886161e+02 -1.963364739e+02 +4.4850e+00 -2.8729e+00 -3.7341e+00
+ % function evaluation | noise-free fitness - Fopt (-1.935000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% function evaluation | noise-free fitness - Fopt (-3.314200000000e+02) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of equalfunvals.
+156 +1.384849845e+00 +5.539399380e-02 -3.300351502e+02 -3.313646060e+02 -1.3358e+00 -3.6891e+00 +3.2671e+00
+ % restart: Indep. restart #2, because of equalfunvals.
+277 +1.384849845e+00 +5.539399380e-02 -3.300351502e+02 -3.313646060e+02 -1.5938e+00 -4.0857e+00 +3.2347e+00
+ % restart: Indep. restart #3, because of equalfunvals.
+482 +5.018240929e-01 +5.539399380e-02 -3.309181759e+02 -3.313646060e+02 -1.1469e+00 -4.3825e+00 +3.3671e+00
+ % function evaluation | noise-free fitness - Fopt (4.129200000000e+02) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of equalfunvals.
+457 +9.441167669e-03 +1.608668754e-07 +4.129294412e+02 +4.129200002e+02 +2.7586e-01 +8.3499e-02 -1.7489e+00
+ % function evaluation | noise-free fitness - Fopt (2.169400000000e+02) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of equalfunvals.
+268 +1.027422830e+00 +1.027422830e+00 +2.179674228e+02 +2.179674228e+02 -6.4560e-01 +4.8469e+00 -2.4007e+00
+ % function evaluation | noise-free fitness - Fopt (1.175000000000e+02) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of equalfunvals.
+219 +7.946001090e-01 +7.946001090e-01 +1.182946001e+02 +1.182946001e+02 -2.4390e+00 +1.9732e+00 +3.4283e+00
+ % restart: Indep. restart #2, because of equalfunvals.
+445 +3.609938165e+00 +7.946001090e-01 +1.211099382e+02 +1.182946001e+02 -3.0758e+00 +1.7845e+00 +2.4029e+00
+ % restart: Indep. restart #3, because of equalfunvals.
+958 +1.001191504e-01 +5.796071816e-02 +1.176001192e+02 +1.175579607e+02 -1.4913e+00 +2.5649e+00 +3.9556e+00
+ % function evaluation | noise-free fitness - Fopt (5.348000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% function evaluation | noise-free fitness - Fopt (7.780000000000e+00) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% function evaluation | noise-free fitness - Fopt (7.260000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of equalfunvals.
+184 +2.963767326e+00 +2.919250470e+00 +7.556376733e+01 +7.551925047e+01 +3.9116e+00 -2.3130e+00 -2.3239e+00
+ % restart: Indep. restart #2, because of equalfunvals.
+571 +4.339340372e-01 +4.339340372e-01 +7.303393404e+01 +7.303393404e+01 +2.7430e+00 -3.3064e+00 +4.2233e-01
+ % function evaluation | noise-free fitness - Fopt (-6.773000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of equalfunvals.
+142 +8.849319689e+00 +2.072919611e+00 -5.888068031e+01 -6.565708039e+01 +2.4841e+00 -2.2540e+00 +2.9933e+00
+ % restart: Indep. restart #2, because of equalfunvals.
+361 +5.150787849e-03 +5.150787849e-03 -6.772484921e+01 -6.772484921e+01 +1.7137e+00 +1.7210e-01 -3.1263e-01
+ % restart: Indep. restart #3, because of equalfunvals.
+573 +2.160325469e+00 +5.150787849e-03 -6.556967453e+01 -6.772484921e+01 +2.3019e+00 -1.9009e+00 +8.8073e-01
+ % restart: Indep. restart #4, because of equalfunvals.
+1058 +1.287696962e-01 +5.150787849e-03 -6.760123030e+01 -6.772484921e+01 +1.5796e+00 +8.3699e-01 -6.0171e-01
+ % restart: Indep. restart #5, because of equalfunvals.
+1487 +1.287696962e-01 +5.150787849e-03 -6.760123030e+01 -6.772484921e+01 +1.9033e+00 -6.1177e-01 -1.7984e-03
+ % restart: Indep. restart #6, because of equalfunvals.
+1629 +9.811041427e+00 +5.150787849e-03 -5.791895857e+01 -6.772484921e+01 +1.1526e+00 +2.2269e+00 +2.2916e+00
+ % restart: Indep. restart #7, because of equalfunvals.
+1848 +5.265640968e-01 +5.150787849e-03 -6.720343590e+01 -6.772484921e+01 +2.0066e+00 -9.0722e-01 +1.7302e-01
+ % restart: Indep. restart #8, because of equalfunvals.
+2067 +1.540502462e+00 +5.150787849e-03 -6.618949754e+01 -6.772484921e+01 +1.3796e+00 +1.3562e+00 -1.1754e-01
+ % restart: Indep. restart #9, because of equalfunvals.
+2328 +5.150787849e-01 +5.150787849e-03 -6.721492122e+01 -6.772484921e+01 +2.0236e+00 -8.9741e-01 +1.0934e-01
+ 
